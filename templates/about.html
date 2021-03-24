@@ -1,6 +1,12 @@
 <html>
     <head>
-        <title>About</title>
+        <head>
+            {%if title%}
+                <title>Flask Blog - {{title}}</title>
+            {%else%}
+                <title>Flask Blog</title>
+            {%endif%}
+        </head>
     </head>
     <body>
         <h1>About Page</h1>
