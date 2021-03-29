@@ -2,5 +2,6 @@
 /flaskblog/main/__pycache__
 /flaskblog/posts/__pycache__
 /flaskblog/users/__pycache__
+/flaskblog/errors/__pycache__
 /flaskblog/site.db
 /.vscode
