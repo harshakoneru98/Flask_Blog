@@ -46,7 +46,9 @@ Please follow the below steps to set necessary environmental variables for the p
 | EMAIL_PASS | Your Email Password |
 
 **SECRET_KEY** - We use this secret key for encrypting the password.
+
 **SQLALCHEMY_DATABASE_URI** - We are using SQLite database.
+
 **EMAIL_USER, EMAIL_PASS** - Email Credentials for sending the password reset email for forgot password functionality.
 
 ##### Creating Secret Key
